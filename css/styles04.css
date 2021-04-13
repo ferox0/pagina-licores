@@ -1,0 +1,22 @@
+body { 
+    background-image: linear-gradient(to top, #90b7f7, #a8bef7, #dfe3f9, #f0f1fc, #ffffff);
+}
+body{ 
+	  font-size: 16px;
+    color:rgb(4, 70, 168);
+    font-family:'Anton', sans-serif;
+    }
+header{
+    width: 90%;
+    max-width:1000px;
+    margin:20px auto;
+    
+}
+
+  th,
+  tr,
+  td {
+    border: rgb(2, 14, 85) 3px solid;
+    text-align: center;
+    
+  }
